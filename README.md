@@ -26,36 +26,99 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| AWS CLI | Command line tool for interacting with AWS services | https://aws.amazon.com/cli/ | 2025-07-14 |
+| Google Cloud CLI | Command line tool for managing Google Cloud resources | https://cloud.google.com/sdk/gcloud | 2025-07-14 |
+| Azure CLI | Command line tool for managing Azure resources | https://learn.microsoft.com/en-us/cli/azure/ | 2025-07-14 |
+| kubectl | Command line tool for interacting with Kubernetes clusters | https://kubernetes.io/docs/reference/kubectl/ | 2025-07-14 |
+| Terraform CLI | Command line tool for infrastructure as code | https://www.terraform.io/cli | 2025-07-14 |
+| Docker CLI | Command line tool for Docker container management | https://docs.docker.com/engine/reference/commandline/cli/ | 2025-07-14 |
+| Helm | Package manager for Kubernetes | https://helm.sh/ | 2025-07-14 |
+| kustomize | Kubernetes configuration customization tool | https://kustomize.io/ | 2025-07-14 |
+
 
 ## Starter Projects & Boilerplates
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| Docker Compose Templates | Ready-to-use Docker Compose configurations for various stacks | https://github.com/docker/awesome-compose | 2025-07-14 |
+| Terraform Modules Registry | Reusable Terraform modules for various cloud providers | https://registry.terraform.io/ | 2025-07-14 |
+| DevOps Project Templates | Collection of DevOps project templates and boilerplates | https://github.com/Tikam02/DevOps-Guide | 2025-07-14 |
+| Kubernetes Examples | Ready-to-use example configurations for Kubernetes | https://github.com/kubernetes/examples | 2025-07-14 |
+| GitHub Actions Starter Workflows | Collection of GitHub Actions workflow templates | https://github.com/actions/starter-workflows | 2025-07-14 |
+| Jenkins Pipeline Templates | Reusable Jenkins pipeline templates for CI/CD | https://github.com/jenkinsci/pipeline-examples | 2025-07-14 |
+| Azure DevOps Templates | Reusable templates for Azure DevOps pipelines | https://github.com/microsoft/azure-pipelines-yaml | 2025-07-14 |
+| GitLab CI/CD Templates | Starter templates for GitLab CI/CD pipelines | https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates | 2025-07-14 |
+
 
 ## Utilities & Services
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| JQ | Lightweight command-line JSON processor | https://stedolan.github.io/jq/ | 2025-07-14 |
+| yq | Command-line YAML, XML, and TOML processor | https://github.com/mikefarah/yq | 2025-07-14 |
+| Direnv | Environment variable manager for shell | https://direnv.net/ | 2025-07-14 |
+| HTTPie | Command-line HTTP client with intuitive syntax | https://httpie.io/ | 2025-07-14 |
+| Portainer | Container management platform with web interface | https://www.portainer.io/ | 2025-07-14 |
+| k9s | Terminal UI for Kubernetes cluster management | https://k9scli.io/ | 2025-07-14 |
+| Krew | Plugin manager for kubectl | https://krew.sigs.k8s.io/ | 2025-07-14 |
+| Dive | Tool for exploring Docker image layers | https://github.com/wagoodman/dive | 2025-07-14 |
+
 
 ## Guides & Documentation
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| DevOps Roadmap | Comprehensive guide to becoming a DevOps engineer | https://roadmap.sh/devops | 2025-07-14 |
+| Kubernetes Documentation | Official documentation for Kubernetes | https://kubernetes.io/docs/home/ | 2025-07-14 |
+| AWS Well-Architected | Best practices for building secure, efficient cloud applications | https://aws.amazon.com/architecture/well-architected/ | 2025-07-14 |
+| Docker Documentation | Comprehensive guide to Docker | https://docs.docker.com/ | 2025-07-14 |
+| Terraform Best Practices | Guide to using Terraform effectively | https://www.terraform-best-practices.com/ | 2025-07-14 |
+| Google Cloud Architecture Center | Best practices for cloud architecture | https://cloud.google.com/architecture | 2025-07-14 |
+| Azure Architecture Center | Guidance for architecting solutions on Azure | https://learn.microsoft.com/en-us/azure/architecture/ | 2025-07-14 |
+| DevOps Handbook | Guide to DevOps principles and practices | https://itrevolution.com/product/the-devops-handbook/ | 2025-07-14 |
+
 
 ## Platforms & Frameworks
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| Kubernetes | Container orchestration platform | https://kubernetes.io/ | 2025-07-14 |
+| Docker | Containerization platform | https://www.docker.com/ | 2025-07-14 |
+| AWS EKS | Managed Kubernetes service on AWS | https://aws.amazon.com/eks/ | 2025-07-14 |
+| Google GKE | Managed Kubernetes service on Google Cloud | https://cloud.google.com/kubernetes-engine | 2025-07-14 |
+| Azure AKS | Managed Kubernetes service on Azure | https://azure.microsoft.com/en-us/products/kubernetes-service | 2025-07-14 |
+| HashiCorp Stack | Suite of tools for cloud infrastructure automation | https://www.hashicorp.com/ | 2025-07-14 |
+| Serverless Framework | Framework for building serverless applications | https://www.serverless.com/ | 2025-07-14 |
+| Red Hat OpenShift | Enterprise Kubernetes platform | https://www.redhat.com/en/technologies/cloud-computing/openshift | 2025-07-14 |
+
 
 ## Hands-on Labs & Sandboxes
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| Killercoda | Interactive learning environment for Kubernetes and cloud-native technologies | https://killercoda.com/ | 2025-07-14 |
+| Qwiklabs | Hands-on labs for Google Cloud Platform | https://www.qwiklabs.com/ | 2025-07-14 |
+| AWS Well-Architected Labs | Hands-on labs for AWS best practices | https://www.wellarchitectedlabs.com/ | 2025-07-14 |
+| Katacoda | Interactive learning platform for cloud technologies | https://www.katacoda.com/ | 2025-07-14 |
+| Azure Labs | Hands-on labs for Azure services | https://learn.microsoft.com/en-us/training/browse/?products=azure | 2025-07-14 |
+| Play with Docker | Browser-based Docker playground | https://labs.play-with-docker.com/ | 2025-07-14 |
+| Play with Kubernetes | Browser-based Kubernetes playground | https://labs.play-with-k8s.com/ | 2025-07-14 |
+| Instruqt | Interactive learning platform for cloud technologies | https://instruqt.com/ | 2025-07-14 |
+
 
 ## Self-Hosted Tools
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| GitLab Community Edition | Self-hosted Git repository management | https://about.gitlab.com/install/ | 2025-07-14 |
+| Drone CI | Self-hosted continuous integration platform | https://www.drone.io/ | 2025-07-14 |
+| Gitea | Lightweight self-hosted Git service | https://gitea.io/ | 2025-07-14 |
+| Jenkins | Self-hosted automation server | https://jenkins.io/ | 2025-07-14 |
+| Concourse CI | Self-hosted CI/CD system with pipeline visualization | https://concourse-ci.org/ | 2025-07-14 |
+| Harbor | Self-hosted container registry | https://goharbor.io/ | 2025-07-14 |
+| Nexus Repository | Self-hosted repository manager for binaries, containers, and packages | https://www.sonatype.com/products/nexus-repository | 2025-07-14 |
+| Vault | Self-hosted secrets management tool | https://www.vaultproject.io/ | 2025-07-14 |
+
 
 ## DevSecOps & Security Tools
 
@@ -204,11 +267,29 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| AWS Free Tier | Free tier for various AWS services with limited usage | https://aws.amazon.com/free/ | 2025-07-14 |
+| Azure Free Account | Free tier for various Azure services with limited usage | https://azure.microsoft.com/en-us/free/ | 2025-07-14 |
+| Google Cloud Free Tier | Free tier for various Google Cloud services with limited usage | https://cloud.google.com/free | 2025-07-14 |
+| Heroku | Platform as a service with free tier for small applications | https://www.heroku.com/ | 2025-07-14 |
+| Netlify | Web hosting and serverless backend services with generous free tier | https://www.netlify.com/ | 2025-07-14 |
+| MongoDB Atlas | Cloud-hosted MongoDB service with free tier | https://www.mongodb.com/cloud/atlas/register | 2025-07-14 |
+| Railway | Developer platform with free tier for deployments | https://railway.app/ | 2025-07-14 |
+| Render | Cloud hosting service with free tier for static sites and small apps | https://render.com/ | 2025-07-14 |
+
 
 ## Miscellaneous & Experimental Tools
 
 | Name | Description | Link | Date |
 |------|-------------|------|------|
+| DevSpace | Open-source tool for cloud-native software development | https://devspace.sh/ | 2025-07-14 |
+| Teleport | Identity-based access management for cloud resources | https://goteleport.com/ | 2025-07-14 |
+| Dapr | Portable runtime for building microservices | https://dapr.io/ | 2025-07-14 |
+| Kubeflow | Machine learning toolkit for Kubernetes | https://www.kubeflow.org/ | 2025-07-14 |
+| KEDA | Kubernetes-based event-driven autoscaling | https://keda.sh/ | 2025-07-14 |
+| OpenFaaS | Serverless functions framework for Kubernetes | https://www.openfaas.com/ | 2025-07-14 |
+| Buildpacks | Transforms application source code into container images | https://buildpacks.io/ | 2025-07-14 |
+| WasmEdge | Cloud-native WebAssembly runtime | https://wasmedge.org/ | 2025-07-14 |
+
 
 ### 🤝 Contributing
 
