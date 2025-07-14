@@ -33,7 +33,13 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Terraform CLI | Command line tool for infrastructure as code | https://www.terraform.io/cli | 2025-07-14 |
 | Docker CLI | Command line tool for Docker container management | https://docs.docker.com/engine/reference/commandline/cli/ | 2025-07-14 |
 | Helm | Package manager for Kubernetes | https://helm.sh/ | 2025-07-14 |
-| kustomize | Kubernetes configuration customization tool | https://kustomize.io/ | 2025-07-14 |
+| kustomize | Kubernetes configuration customization tool | https://kustomize.io/ | 2025-07-17 |
+| kubectx & kubens | Tools for switching between Kubernetes contexts and namespaces | https://github.com/ahmetb/kubectx | 2025-07-17 |
+| Starship | Customizable cross-shell prompt with DevOps tool integration | https://github.com/starship/starship | 2025-07-17 |
+| Stern | Multi-pod and container log tailing for Kubernetes | https://github.com/stern/stern | 2025-07-17 |
+| Skaffold | Command-line tool for continuous development on Kubernetes | https://github.com/GoogleContainerTools/skaffold | 2025-07-17 |
+| Lazydocker | Terminal UI for Docker management | https://github.com/jesseduffield/lazydocker | 2025-07-17 |
+| Kompose | Convert Docker Compose to Kubernetes resources | https://github.com/kubernetes/kompose | 2025-07-17 |
 
 
 ## Starter Projects & Boilerplates
@@ -47,7 +53,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | GitHub Actions Starter Workflows | Collection of GitHub Actions workflow templates | https://github.com/actions/starter-workflows | 2025-07-14 |
 | Jenkins Pipeline Templates | Reusable Jenkins pipeline templates for CI/CD | https://github.com/jenkinsci/pipeline-examples | 2025-07-14 |
 | Azure DevOps Templates | Reusable templates for Azure DevOps pipelines | https://github.com/microsoft/azure-pipelines-yaml | 2025-07-14 |
-| GitLab CI/CD Templates | Starter templates for GitLab CI/CD pipelines | https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates | 2025-07-14 |
+| GitLab CI/CD Templates | Starter templates for GitLab CI/CD pipelines | https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates | 2025-07-17 |
+| DevSecOps Kubernetes | Kubernetes manifests and tools for DevSecOps implementations | https://github.com/andresguisado/aws-eks-devsecops | 2025-07-17 |
+| LocalStack | A fully functional local AWS cloud stack for testing and development | https://github.com/localstack/localstack | 2025-07-17 |
+| DevOps Python Tools | Python tools for DevOps, Docker, Kubernetes and CI/CD | https://github.com/HariSekhon/DevOps-Python-tools | 2025-07-17 |
+| Microservices Demo | Sample microservices application for various deployments | https://github.com/GoogleCloudPlatform/microservices-demo | 2025-07-17 |
+| Sock Shop | Microservices demo application for learning container orchestration | https://github.com/microservices-demo/microservices-demo | 2025-07-17 |
 
 
 ## Utilities & Services
@@ -61,7 +72,13 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Portainer | Container management platform with web interface | https://www.portainer.io/ | 2025-07-14 |
 | k9s | Terminal UI for Kubernetes cluster management | https://k9scli.io/ | 2025-07-14 |
 | Krew | Plugin manager for kubectl | https://krew.sigs.k8s.io/ | 2025-07-14 |
-| Dive | Tool for exploring Docker image layers | https://github.com/wagoodman/dive | 2025-07-14 |
+| Dive | Tool for exploring Docker image layers | https://github.com/wagoodman/dive | 2025-07-17 |
+| Popeye | Kubernetes cluster resource sanitizer | https://github.com/derailed/popeye | 2025-07-17 |
+| k6 | Open-source load testing tool and SaaS for engineering teams | https://github.com/grafana/k6 | 2025-07-17 |
+| Chaos Monkey | Tool for testing system resiliency by randomly terminating instances | https://github.com/Netflix/chaosmonkey | 2025-07-17 |
+| Kube-bench | Checks Kubernetes clusters against security best practices | https://github.com/aquasecurity/kube-bench | 2025-07-17 |
+| kube-score | Static code analysis of Kubernetes object definitions | https://github.com/zegl/kube-score | 2025-07-17 |
+| Kubecost | Cost monitoring tool for Kubernetes deployments | https://github.com/kubecost/cost-model | 2025-07-17 |
 
 
 ## Guides & Documentation
@@ -75,7 +92,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Terraform Best Practices | Guide to using Terraform effectively | https://www.terraform-best-practices.com/ | 2025-07-14 |
 | Google Cloud Architecture Center | Best practices for cloud architecture | https://cloud.google.com/architecture | 2025-07-14 |
 | Azure Architecture Center | Guidance for architecting solutions on Azure | https://learn.microsoft.com/en-us/azure/architecture/ | 2025-07-14 |
-| DevOps Handbook | Guide to DevOps principles and practices | https://itrevolution.com/product/the-devops-handbook/ | 2025-07-14 |
+| DevOps Handbook | Guide to DevOps principles and practices | https://itrevolution.com/product/the-devops-handbook/ | 2025-07-17 |
+| Kubernetes Best Practices | Collection of Kubernetes best practices | https://github.com/diegolnasc/kubernetes-best-practices | 2025-07-17 |
+| DevOps Exercises | DevOps interview questions and exercises | https://github.com/bregman-arie/devops-exercises | 2025-07-17 |
+| System Design Primer | Learn how to design large-scale systems | https://github.com/donnemartin/system-design-primer | 2025-07-17 |
+| SRE Books | Google's Site Reliability Engineering books | https://github.com/captn3m0/google-sre-ebook | 2025-07-17 |
+| Cloud Design Patterns | Design patterns for cloud applications | https://github.com/mspnp/cloud-design-patterns | 2025-07-17 |
 
 
 ## Platforms & Frameworks
@@ -89,7 +111,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Azure AKS | Managed Kubernetes service on Azure | https://azure.microsoft.com/en-us/products/kubernetes-service | 2025-07-14 |
 | HashiCorp Stack | Suite of tools for cloud infrastructure automation | https://www.hashicorp.com/ | 2025-07-14 |
 | Serverless Framework | Framework for building serverless applications | https://www.serverless.com/ | 2025-07-14 |
-| Red Hat OpenShift | Enterprise Kubernetes platform | https://www.redhat.com/en/technologies/cloud-computing/openshift | 2025-07-14 |
+| Red Hat OpenShift | Enterprise Kubernetes platform | https://www.redhat.com/en/technologies/cloud-computing/openshift | 2025-07-17 |
+| Kind | Kubernetes in Docker for local development | https://github.com/kubernetes-sigs/kind | 2025-07-17 |
+| Minikube | Local Kubernetes for development | https://github.com/kubernetes/minikube | 2025-07-17 |
+| k3s | Lightweight Kubernetes for edge computing | https://github.com/k3s-io/k3s | 2025-07-17 |
+| OpenTelemetry | Observability framework for cloud-native applications | https://github.com/open-telemetry/opentelemetry-specification | 2025-07-17 |
+| Knative | Kubernetes-based platform for serverless workloads | https://github.com/knative/serving | 2025-07-17 |
 
 
 ## Hands-on Labs & Sandboxes
@@ -99,7 +126,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Killercoda | Interactive learning environment for Kubernetes and cloud-native technologies | https://killercoda.com/ | 2025-07-14 |
 | Qwiklabs | Hands-on labs for Google Cloud Platform | https://www.qwiklabs.com/ | 2025-07-14 |
 | AWS Well-Architected Labs | Hands-on labs for AWS best practices | https://www.wellarchitectedlabs.com/ | 2025-07-14 |
-| Katacoda | Interactive learning platform for cloud technologies | https://www.katacoda.com/ | 2025-07-14 |
+| Instruqt | Interactive learning platform for cloud technologies | https://instruqt.com/ | 2025-07-17 |
+| Kubernetes The Hard Way | Step-by-step guide for learning Kubernetes components | https://github.com/kelseyhightower/kubernetes-the-hard-way | 2025-07-17 |
+| Docker Curriculum | Comprehensive Docker tutorial | https://github.com/prakhar1989/docker-curriculum | 2025-07-17 |
+| AWS Workshop Studio | Hands-on workshops for AWS services | https://github.com/aws-samples/aws-workshop-sample | 2025-07-17 |
+| Learn Terraform | Interactive Terraform tutorials | https://github.com/hashicorp/learn-terraform-modules | 2025-07-17 |
+| DevOps Bootcamp | Free DevOps training materials | https://github.com/kubesimplify/trainings | 2025-07-17 |
 | Azure Labs | Hands-on labs for Azure services | https://learn.microsoft.com/en-us/training/browse/?products=azure | 2025-07-14 |
 | Play with Docker | Browser-based Docker playground | https://labs.play-with-docker.com/ | 2025-07-14 |
 | Play with Kubernetes | Browser-based Kubernetes playground | https://labs.play-with-k8s.com/ | 2025-07-14 |
@@ -117,7 +149,13 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Concourse CI | Self-hosted CI/CD system with pipeline visualization | https://concourse-ci.org/ | 2025-07-14 |
 | Harbor | Self-hosted container registry | https://goharbor.io/ | 2025-07-14 |
 | Nexus Repository | Self-hosted repository manager for binaries, containers, and packages | https://www.sonatype.com/products/nexus-repository | 2025-07-14 |
-| Vault | Self-hosted secrets management tool | https://www.vaultproject.io/ | 2025-07-14 |
+| Vault | Self-hosted secrets management tool | https://www.vaultproject.io/ | 2025-07-17 |
+| Traefik | Self-hosted edge router and load balancer | https://github.com/traefik/traefik | 2025-07-17 |
+| Keycloak | Self-hosted identity and access management | https://github.com/keycloak/keycloak | 2025-07-17 |
+| Minio | Self-hosted S3-compatible object storage | https://github.com/minio/minio | 2025-07-17 |
+| Portus | Self-hosted authorization service and frontend for Docker registry | https://github.com/SUSE/Portus | 2025-07-17 |
+| Cockpit | Web-based server management interface | https://github.com/cockpit-project/cockpit | 2025-07-17 |
+| Fabio | Self-hosted load balancing router for zero-conf service discovery | https://github.com/fabiolb/fabio | 2025-07-17 |
 
 
 ## DevSecOps & Security Tools
@@ -132,6 +170,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Sysdig | Container and cloud security with runtime threat detection | https://sysdig.com/ | 2025-07-10 |
 | Checkmarx | Application security testing platform with SAST and SCA | https://www.checkmarx.com/ | 2025-07-10 |
 | Trivy | Open-source vulnerability scanner for containers and infrastructure | https://github.com/aquasecurity/trivy | 2025-07-10 |
+| OWASP ZAP | Web application security scanner | https://github.com/zaproxy/zaproxy | 2025-07-17 |
+| Falco | Cloud-native runtime security tool | https://github.com/falcosecurity/falco | 2025-07-17 |
+| Grype | Vulnerability scanner for container images and filesystems | https://github.com/anchore/grype | 2025-07-17 |
+| Terrascan | Static code analyzer for Infrastructure as Code | https://github.com/tenable/terrascan | 2025-07-17 |
+| Cilium | eBPF-based networking, security, and observability | https://github.com/cilium/cilium | 2025-07-17 |
+| Anchore | Container security and compliance platform | https://github.com/anchore/anchore-engine | 2025-07-17 |
 
 ## Observability (Logging, Monitoring, Tracing)
 
@@ -145,6 +189,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Elastic Stack | Centralized logging with search, analysis, and visualization capabilities | https://www.elastic.co/ | 2025-07-10 |
 | Splunk | Enterprise monitoring and observability platform with advanced analytics | https://www.splunk.com/ | 2025-07-10 |
 | Jaeger | Open-source distributed tracing system for microservices | https://www.jaegertracing.io/ | 2025-07-10 |
+| OpenTelemetry | Observability framework for cloud-native software | https://github.com/open-telemetry/opentelemetry-go | 2025-07-17 |
+| Vector | High-performance observability data pipeline | https://github.com/vectordotdev/vector | 2025-07-17 |
+| Loki | Log aggregation system inspired by Prometheus | https://github.com/grafana/loki | 2025-07-17 |
+| Telegraf | Plugin-driven server agent for collecting metrics | https://github.com/influxdata/telegraf | 2025-07-17 |
+| Thanos | Highly available Prometheus setup with long-term storage | https://github.com/thanos-io/thanos | 2025-07-17 |
+| Kiali | Observability console for Istio service mesh | https://github.com/kiali/kiali | 2025-07-17 |
 
 ## CI/CD Pipelines & Workflow Tools
 
@@ -158,6 +208,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | CircleCI | Cloud-native CI/CD platform with intelligent automation and enterprise features | https://circleci.com/ | 2025-07-10 |
 | TeamCity | Powerful CI/CD server from JetBrains with deep IDE integration | https://www.jetbrains.com/teamcity/ | 2025-07-10 |
 | Codefresh | Modern CI/CD platform built on Argo with GitOps capabilities | https://codefresh.io/ | 2025-07-10 |
+| Drone | Cloud-native CI/CD platform built on Docker | https://github.com/harness/drone | 2025-07-17 |
+| Tekton | Kubernetes-native CI/CD building blocks | https://github.com/tektoncd/pipeline | 2025-07-17 |
+| Concourse | CI/CD tool with pipeline visualization | https://github.com/concourse/concourse | 2025-07-17 |
+| GoCD | Continuous delivery server | https://github.com/gocd/gocd | 2025-07-17 |
+| Woodpecker CI | Forked Drone CI with enhancements | https://github.com/woodpecker-ci/woodpecker | 2025-07-17 |
+| Spinnaker | Multi-cloud continuous delivery platform | https://github.com/spinnaker/spinnaker | 2025-07-17 |
 
 ## Infrastructure as Code (IaC)
 
@@ -171,6 +227,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | AWS CDK | Framework for defining cloud infrastructure using familiar programming languages | https://aws.amazon.com/cdk/ | 2025-07-10 |
 | Crossplane | Open source control plane for managing infrastructure using Kubernetes APIs | https://www.crossplane.io/ | 2025-07-10 |
 | OpenTofu | Open source fork of Terraform with community governance | https://opentofu.org/ | 2025-07-10 |
+| CDK8s | Cloud Development Kit for Kubernetes | https://github.com/cdk8s-team/cdk8s | 2025-07-17 |
+| Terragrunt | Thin wrapper for Terraform that provides extra tools | https://github.com/gruntwork-io/terragrunt | 2025-07-17 |
+| Atlantis | Terraform pull request automation | https://github.com/runatlantis/atlantis | 2025-07-17 |
+| Packer | Tool for creating identical machine images for multiple platforms | https://github.com/hashicorp/packer | 2025-07-17 |
+| Kops | Kubernetes Operations - production-grade K8s installation | https://github.com/kubernetes/kops | 2025-07-17 |
+| Cloud Custodian | Rules engine for cloud security, cost optimization, and governance | https://github.com/cloud-custodian/cloud-custodian | 2025-07-17 |
 
 ## GitOps & Automation
 
@@ -184,6 +246,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Werf | Cloud-native CI/CD tool for building and deploying to Kubernetes | https://werf.io/ | 2025-07-10 |
 | GitLab | Complete DevOps platform with built-in GitOps and automation features | https://gitlab.com/ | 2025-07-10 |
 | Spinnaker | Multi-cloud continuous delivery platform for releasing software changes | https://spinnaker.io/ | 2025-07-10 |
+| Argo Workflows | Kubernetes-native workflow engine | https://github.com/argoproj/argo-workflows | 2025-07-17 |
+| Atlantis | Terraform Pull Request Automation | https://github.com/runatlantis/atlantis | 2025-07-17 |
+| Gitpod | Cloud development environments for GitHub | https://github.com/gitpod-io/gitpod | 2025-07-17 |
+| Brigade | Event-driven scripting for Kubernetes | https://github.com/brigadecore/brigade | 2025-07-17 |
+| Dagger | Portable devkit for CI/CD pipelines | https://github.com/dagger/dagger | 2025-07-17 |
+| Keptn | Cloud-native application life-cycle orchestration | https://github.com/keptn/keptn | 2025-07-17 |
 
 ## Container & Orchestration Tools
 
@@ -197,6 +265,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Amazon ECS | Fully managed container orchestration service by AWS | https://aws.amazon.com/ecs/ | 2025-07-10 |
 | Docker Swarm | Native clustering and orchestration solution for Docker | https://docs.docker.com/engine/swarm/ | 2025-07-10 |
 | Nomad | Simple and flexible orchestrator by HashiCorp for containers and non-containerized applications | https://www.nomadproject.io/ | 2025-07-10 |
+| Kaniko | Build container images in Kubernetes without Docker daemon | https://github.com/GoogleContainerTools/kaniko | 2025-07-17 |
+| Buildah | Tool for building OCI container images | https://github.com/containers/buildah | 2025-07-17 |
+| kube-vip | Virtual IP and load balancer for Kubernetes | https://github.com/kube-vip/kube-vip | 2025-07-17 |
+| Triton | Open source container native hypervisor | https://github.com/joyent/triton | 2025-07-17 |
+| Containerd | Industry-standard container runtime | https://github.com/containerd/containerd | 2025-07-17 |
+| CRI-O | Lightweight container runtime for Kubernetes | https://github.com/cri-o/cri-o | 2025-07-17 |
 
 ## Cloud Provider-Specific Resources
 
@@ -210,6 +284,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Azure Resource Manager | Deployment and management service for Azure that provides a management layer to create, update, and delete resources | https://azure.microsoft.com/products/resource-manager | 2025-07-10 |
 | Google Cloud Deployment Manager | Infrastructure deployment service that automates the creation and management of Google Cloud resources | https://cloud.google.com/deployment-manager | 2025-07-10 |
 | AWS App Runner | Fully managed service that makes it easy to deploy containerized web applications and APIs | https://aws.amazon.com/apprunner/ | 2025-07-10 |
+| Azure Container Apps | Fully managed serverless container platform | https://github.com/microsoft/azure-container-apps | 2025-07-17 |
+| Google Cloud Run | Fully managed platform for containerized applications | https://github.com/GoogleCloudPlatform/cloud-run-samples | 2025-07-17 |
+| AWS Copilot CLI | CLI tool for AWS containerized applications | https://github.com/aws/copilot-cli | 2025-07-17 |
+| AWS Amplify | Development platform for building full-stack applications | https://github.com/aws-amplify/amplify-js | 2025-07-17 |
+| Azure Bicep | Domain-specific language for deploying Azure resources | https://github.com/Azure/bicep | 2025-07-17 |
+| Google Cloud Code | IDE extensions for cloud-native development | https://github.com/GoogleCloudPlatform/cloud-code-samples | 2025-07-17 |
 
 ## Learning Paths & Roadmaps
 
@@ -223,6 +303,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | GitLab Certified CI/CD Specialist | Certification validating expertise in GitLab CI/CD pipelines and automation | https://about.gitlab.com/services/education/certification/ | 2025-07-10 |
 | Docker Certified Associate (DCA) | Certification for container technology and Docker platform expertise | https://training.mirantis.com/certification/dca-certification-exam/ | 2025-07-10 |
 | Google Cloud Professional DevOps Engineer | Advanced certification for implementing DevOps practices on Google Cloud | https://cloud.google.com/certification/cloud-devops-engineer | 2025-07-10 |
+| DevOps Roadmap | Step-by-step guide to becoming a DevOps engineer | https://github.com/milanm/DevOps-Roadmap | 2025-07-17 |
+| SRE Interview Preparation | Resources for Site Reliability Engineering interviews | https://github.com/mxssl/sre-interview-prep-guide | 2025-07-17 |
+| Azure DevOps Labs | Hands-on labs for Azure DevOps | https://github.com/microsoft/azuredevopslabs | 2025-07-17 |
+| Certified Kubernetes Security Specialist | Study guide for CKS certification | https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist | 2025-07-17 |
+| DevSecOps Learning | Resources for learning DevSecOps | https://github.com/TaptuIT/awesome-devsecops | 2025-07-17 |
+| Cloud Security Learning | Resources for cloud security | https://github.com/btkrausen/cloudandcontainersecurity | 2025-07-17 |
 
 ## Beginner-Friendly Tools & Tutorials
 
@@ -236,6 +322,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | DevOps Bootcamp | Comprehensive video course covering DevOps fundamentals and tools | https://www.youtube.com/c/TechWorldwithNana | 2025-07-10 |
 | KodeKloud Engineer | Hands-on DevOps learning platform with real-world scenarios | https://kodekloud.com/ | 2025-07-10 |
 | Linux Journey | Interactive platform for learning Linux fundamentals | https://linuxjourney.com/ | 2025-07-10 |
+| DevOps Toolkit | Collection of DevOps tools and tutorials | https://github.com/vfarcic/devops-toolkit | 2025-07-17 |
+| Learn Docker | Hands-on introduction to Docker | https://github.com/dwyl/learn-docker | 2025-07-17 |
+| Kubectl Cheat Sheet | Quick reference for Kubernetes CLI | https://github.com/dennyzhang/cheatsheet-kubernetes-A4 | 2025-07-17 |
+| DevOps Bash Tools | Collection of Bash scripts for DevOps | https://github.com/HariSekhon/DevOps-Bash-tools | 2025-07-17 |
+| Terraform Beginner Guide | Step-by-step guide for Terraform beginners | https://github.com/zealvora/terraform-beginner-to-advanced-resource | 2025-07-17 |
+| Cloud Native Interactive Landscape | Guide to cloud native technologies | https://github.com/cncf/landscape | 2025-07-17 |
 
 ## Trending or Most Popular Tools
 
@@ -249,6 +341,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Crossplane | Cloud-native control plane framework for infrastructure orchestration | https://crossplane.io/ | 2025-07-10 |
 | Grafana Loki | Horizontally scalable, multi-tenant log aggregation system | https://grafana.com/oss/loki/ | 2025-07-10 |
 | Cilium | Cloud native networking, observability, and security using eBPF | https://cilium.io/ | 2025-07-10 |
+| Infracost | Cloud cost estimates for Terraform | https://github.com/infracost/infracost | 2025-07-17 |
+| Devtron | Software delivery workflow for Kubernetes | https://github.com/devtron-labs/devtron | 2025-07-17 |
+| Karpenter | Kubernetes node autoscaler | https://github.com/aws/karpenter | 2025-07-17 |
+| OpenCost | Cost monitoring for Kubernetes | https://github.com/opencost/opencost | 2025-07-17 |
+| OpenFaaS | Serverless functions made simple | https://github.com/openfaas/faas | 2025-07-17 |
+| DevSpace | Development environment for Kubernetes | https://github.com/loft-sh/devspace | 2025-07-17 |
 
 ## Open Source Projects
 
@@ -262,6 +360,12 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Istio | Service mesh for Kubernetes and microservices | https://github.com/istio/istio | 2025-07-10 |
 | Vault | Secrets management and data protection platform | https://github.com/hashicorp/vault | 2025-07-10 |
 | Lens | Kubernetes IDE and management platform | https://github.com/lensapp/lens | 2025-07-10 |
+| Kubebuilder | Framework for building Kubernetes APIs | https://github.com/kubernetes-sigs/kubebuilder | 2025-07-17 |
+| Operator SDK | Framework for Kubernetes native applications | https://github.com/operator-framework/operator-sdk | 2025-07-17 |
+| Kyverno | Kubernetes policy engine | https://github.com/kyverno/kyverno | 2025-07-17 |
+| Calico | Networking and security solution for containers | https://github.com/projectcalico/calico | 2025-07-17 |
+| Kubespray | Deploy a production-ready Kubernetes cluster | https://github.com/kubernetes-sigs/kubespray | 2025-07-17 |
+| Linkerd | Ultralight, security-first service mesh | https://github.com/linkerd/linkerd2 | 2025-07-17 |
 
 ## Free Tier or Trial Tools
 
@@ -274,7 +378,13 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | Netlify | Web hosting and serverless backend services with generous free tier | https://www.netlify.com/ | 2025-07-14 |
 | MongoDB Atlas | Cloud-hosted MongoDB service with free tier | https://www.mongodb.com/cloud/atlas/register | 2025-07-14 |
 | Railway | Developer platform with free tier for deployments | https://railway.app/ | 2025-07-14 |
-| Render | Cloud hosting service with free tier for static sites and small apps | https://render.com/ | 2025-07-14 |
+| Render | Cloud hosting service with free tier for static sites and small apps | https://render.com/ | 2025-07-17 |
+| GitHub Free Tier | Free tier for GitHub repositories and GitHub Actions | https://github.com/pricing | 2025-07-17 |
+| GitLab Community Edition | Free self-hosted version of GitLab | https://github.com/gitlabhq/gitlabhq | 2025-07-17 |
+| Localstack | A fully functional local AWS cloud stack for testing | https://github.com/localstack/localstack | 2025-07-17 |
+| Minikube | Local Kubernetes for development | https://github.com/kubernetes/minikube | 2025-07-17 |
+| k3d | Lightweight Kubernetes in Docker | https://github.com/k3d-io/k3d | 2025-07-17 |
+| Waypoint | Build, deploy, and release applications across platforms | https://github.com/hashicorp/waypoint | 2025-07-17 |
 
 
 ## Miscellaneous & Experimental Tools
@@ -288,7 +398,13 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | KEDA | Kubernetes-based event-driven autoscaling | https://keda.sh/ | 2025-07-14 |
 | OpenFaaS | Serverless functions framework for Kubernetes | https://www.openfaas.com/ | 2025-07-14 |
 | Buildpacks | Transforms application source code into container images | https://buildpacks.io/ | 2025-07-14 |
-| WasmEdge | Cloud-native WebAssembly runtime | https://wasmedge.org/ | 2025-07-14 |
+| WasmEdge | Cloud-native WebAssembly runtime | https://wasmedge.org/ | 2025-07-17 |
+| Rancher Desktop | Container management on the desktop | https://github.com/rancher-sandbox/rancher-desktop | 2025-07-17 |
+| Budibase | Low-code platform for building internal tools | https://github.com/Budibase/budibase | 2025-07-17 |
+| Podman Desktop | Desktop app for Podman container management | https://github.com/containers/podman-desktop | 2025-07-17 |
+| Kanister | Framework for application-level data management on Kubernetes | https://github.com/kanisterio/kanister | 2025-07-17 |
+| Chaoskube | Chaotic testing tool for Kubernetes | https://github.com/linki/chaoskube | 2025-07-17 |
+| Kubeflow Pipelines | Platform for deploying ML workflows on Kubernetes | https://github.com/kubeflow/pipelines | 2025-07-17 |
 
 
 ### 🤝 Contributing
